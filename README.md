@@ -18,7 +18,7 @@
 :bulb:My studies have deepened my analytical and research capabilities whilst giving me the time and space to delve into all things geospatial!
 
 
-## What do I want to do?
+## What I want to do
 
 :seedling:**My aim is to move into sustainable development** and use my skills and expertise to help **solve problems in our cities**.
 
@@ -29,5 +29,5 @@
 
 <a href="https://www.linkedin.com/in/jessarkesden/"><img src="icons/LinkedIn_icon.png" alt="LinkedIn" height="20" style="vertical-align:middle"></a> Find me on [LinkedIn](https://www.linkedin.com/in/jessarkesden/) - I'll be happy to connect!
 
-<a href="https://github.com/JessArkesden"><img src="icons/GitHub_icon.png" alt="GitHub" height="20" style="vertical-align:middle"></a> And obviously check out my repositories here on GitHub if you'd like delve into my code.
+<a href="https://github.com/JessArkesden"><img src="icons/GitHub_icon.png" alt="GitHub" height="20" style="vertical-align:middle"></a> And obviously check out my repositories here on GitHub if you'd like to delve into my code.
 
