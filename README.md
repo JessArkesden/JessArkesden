@@ -21,3 +21,13 @@
 ## What do I want to do?
 
 :seedling:**My aim is to move into sustainable development** and use my skills and expertise to help **solve problems in our cities**.
+
+
+## Want to know more?
+
+:desktop_computer:Take a look at [my website](https://jessarkesden.github.io/) to see examples of my work.
+
+<a href="https://www.linkedin.com/in/jessarkesden/"><img src="icons/LinkedIn.png" alt="LinkedIn" height="20" style="vertical-align:middle"></a> Find me on [LinkedIn](https://www.linkedin.com/in/jessarkesden/) - I'll be happy to connect!
+
+<a href="https://github.com/JessArkesden"><img src="icons/GitHub.png" alt="GitHub" height="20" style="vertical-align:middle"></a> And obviously check out my repositories here on GitHub if you'd like delve into my code.
+
